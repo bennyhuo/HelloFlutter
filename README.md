@@ -1,4 +1,4 @@
-# hello_flutter2
+# HelloFlutter
 
 A new Flutter project.
 
